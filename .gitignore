@@ -61,3 +61,5 @@ fabric.properties
 .idea
 target
 *.iml
+.idea/
+study.iml
