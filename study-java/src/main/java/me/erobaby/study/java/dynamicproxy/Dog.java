@@ -3,6 +3,7 @@ package me.erobaby.study.java.dynamicproxy;
 import java.util.concurrent.TimeUnit;
 
 public class Dog implements Animal {
+
     @Override
     public void run() {
         try {
